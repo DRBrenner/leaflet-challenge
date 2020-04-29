@@ -11,11 +11,14 @@ JavaScript, Leaflet, Mapbox, CSS, HTML, API
 ## To View
 
 This is an interactive heat map that is updated with an API call.  For my protection, I have my Mapbox API key stored in a separate file that I included in my .gitignore file.  To view the visualization:
-   1. Obtain or retrieve an API Key from Mapbox.
-   2. Clone the respository.
+   1. Obtain or retrieve an API Key from Mapbox
+   2. Clone the respository
    3. Create a new JavaScript file in the Leaflet-Step-1/static/js folder called "config.js"
-   4. Enter the following in the config.js:
-         >const API_KEY = "YOUR API Key goes here";
+   4. Enter the following in the config.js file and save it:
+   ```javascript
+   const API_KEY = "YOUR API Key goes here";
+   ```
+   5. Open the index.html file in your browser
 
 
 ## Background
