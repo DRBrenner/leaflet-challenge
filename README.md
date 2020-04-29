@@ -27,7 +27,7 @@ I have included a screenshot of the heat map below.  It is not current nor inter
 
 ## Assignment Details
 
-![1-Logo](Leaflet-Step-1/Images/1-Logo.png)
+![USGSLogo](Leaflet-Step-1/Images/1-Logo.png)
 
 Welcome to the United States Geological Survey, or USGS for short! The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes. I am helping them out with an exciting new project!
 
