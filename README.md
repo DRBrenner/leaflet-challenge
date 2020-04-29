@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The purpose of this homework assignment was to practice more with APIs, heat maps (using Leaflet and MapBox), and web design.  The assignment is described in the "Background" section below.
+The purpose of this homework assignment was to practice more with APIs, heat maps (using Leaflet and MapBox), and web design.  The assignment is described in the "Assignment Details" section below.
 
 ## Tools Used
 
@@ -20,8 +20,12 @@ This is an interactive heat map that is updated with an API call.  For my protec
    ```
    5. Open the index.html file in your browser
 
+I have included a screenshot of the heat map below.  It is not current nor interactive; however, I took the screenshot to show the 'on-click' details functionality.
 
-## Background
+![screenshot](Leaflet-Step-1/Images/LeafletHeatMap.png)
+
+
+## Assignment Details
 
 ![1-Logo](Leaflet-Step-1/Images/1-Logo.png)
 
