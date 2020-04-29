@@ -1,4 +1,14 @@
-# Leaflet Homework - Visualizing Data with Leaflet
+# Leaflet Homework - Visualization using API call and Heat Map
+
+## Purpose
+
+The purpose of this homework assignment was to practice more with APIs, heat maps (using Leaflet), and web design.  The assignment is described in the "Background" section below.
+
+## Tools Used
+
+JavaScript, Leaflet, CSS, HTML, API
+
+
 
 ## Background
 
